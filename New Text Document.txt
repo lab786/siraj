@@ -1,0 +1,23 @@
+| Website                                                     | Description                                                                                        |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [**CodePen**](https://codepen.io)                           | Live editor for HTML, CSS, and JavaScript. Tons of community-created snippets to explore and fork. |
+| [**JSFiddle**](https://jsfiddle.net)                        | Another live coding playground to test HTML, CSS, and JS together.                                 |
+| [**CSS-Tricks Snippets**](https://css-tricks.com/snippets/) | Excellent HTML & CSS tips, tricks, and reusable code.                                              |
+| [**CodeMyUI**](https://codemyui.com)                        | Creative UI/UX elements with source code, especially CSS animations and effects.                   |
+| [**UI Snippets**](https://uiverse.io)                       | Free community of copy-paste HTML/CSS/JS UI elements like buttons, cards, loaders.                 |
+| [**Animista**](https://animista.net)                        | Prebuilt CSS animations with code you can copy and tweak.                                          |
+| [**HyperUI**](https://www.hyperui.dev/)                     | Beautifully designed Tailwind CSS components, free and customizable.                               |
+| [**Get Waves**](https://getwaves.io)                        | Generate SVG wave shapes with HTML/CSS code for creative section dividers.                         |
+
+
+
+
+
+| Website                                              | Description                                                                          |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [**W3Schools**](https://www.w3schools.com)           | Beginner-friendly tutorials and code examples. Click "Try it Yourself" to edit live. |
+| [**HTML5 UP**](https://html5up.net)                  | Free modern HTML5/CSS templates for personal and commercial use.                     |
+| [**Free Frontend**](https://freefrontend.com)        | Hand-picked HTML/CSS/JS code snippets like sliders, forms, navbars, etc.             |
+| [**Frontend Mentor**](https://www.frontendmentor.io) | Practice real-world HTML/CSS challenges with starter files and designs.              |
+ 
+
